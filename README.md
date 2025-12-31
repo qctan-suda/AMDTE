@@ -7,12 +7,12 @@ The core code of this article is released, and the overall code and dataset will
 
 
 # Framework of AMDTE
-![](https://github.com/qctan-suda/AMDTE/edit/main/fig1.png)
+![fig1](/fig1.png)
 
 # Performance of the proposed AMDTE
-![](https://github.com/qctan-suda/AMDTE/edit/main/fig3.png)
+![fig2](/fig3.png)
 
 # Qualitative analysis cross various drone models and datasets
-![](https://github.com/qctan-suda/AMDTE/edit/main/fig2.png)
+![fig3](/fig2.png)
 
 
