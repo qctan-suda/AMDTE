@@ -7,12 +7,12 @@ The core code of this article is released, and the overall code and dataset will
 
 
 # Framework of AMDTE
-![Framework of AMDTE](/fig1.png "Framework of AMDTE")
+![](/fig1.png)
 
 # Performance of the proposed AMDTE
-![Performance of AMDTE](/fig3.png "Performance of AMDTE")
+![](/fig3.png)
 
 # Qualitative analysis cross various drone models and datasets
-![Results comparison](/fig2.png "Results comparison between the proposed AMDTE and baseline method")
+![](/fig2.png)
 
 
